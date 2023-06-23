@@ -1,0 +1,1 @@
+docker service create --name appweb --replicas 7 httpd
